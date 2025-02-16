@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.ts",
   "scripts": {
-    "watch": "tsc- w",
+    "watch": "tsc --w",
     "dev": "nodemon --inspect dist/index.js"
   },
   "keywords": [],
